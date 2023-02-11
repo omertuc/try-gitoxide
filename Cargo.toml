@@ -1,0 +1,12 @@
+[package]
+name = "try-gitoxide"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+git-hash = "0.10.2"
+git-object = "0.26.1"
+git-odb = "0.40.2"
+git-repository = "0.35.0"
